@@ -43,13 +43,8 @@ function kata2(parametro) {
 function kata3(parametro) {
     myarray = []
     soma = 3
-    for(let i = 0; i<=parametro; i++){
-        myarray.push(-i);
-            if(i%2 !== 0){
-                myarray.push(i)
-                
-            }
-           
+    for(let i = 1; i<=parametro; i++){
+        myarray.push(-i);    
        }
     showresults(myarray)
 }
