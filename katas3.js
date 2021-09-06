@@ -60,18 +60,6 @@ function kata4(parametro) {
 }
    
 
-//function kata4(parametro) {
-  //  myarray = []
-  //  soma = 4;
-  //  for(let i = 1; i<=parametro; i++){
- //       if(i%2===0){
- //        myarray.push(i);
- //       }
- //   }
-   // showresults(myarray)
-//}
-
-
 function kata5(parametro) {
     soma = 5
     myarray=[]
